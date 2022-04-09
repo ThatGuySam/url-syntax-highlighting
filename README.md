@@ -54,11 +54,14 @@ Highlighting Query String
 
 
 Highlighting All Parts
-* [Elixir[](#Elixir)
+* [Elixir](#Elixir)
 * [jq](#jq)
 
 
 
+
+
+# The List
 
 
 ### 1C Enterprise
