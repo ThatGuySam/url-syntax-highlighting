@@ -3,7 +3,7 @@ Github has syntax highlighting for 581 languages this list let's you see see whi
 
 
 ### Background
-I've been looking for a good way have easier to read URL Syntax Highlighting for my project documentation and code examples so I created this list to compare all 581 different Github Highlighters and which ones work best for different contexts. 
+I've been looking for a good way to have easier to read URL Syntax Highlighting for my project documentation and code examples so I created this list to compare all 581 different Github Highlighters and which ones work best for different contexts.
 
 
 ### Quick Links
