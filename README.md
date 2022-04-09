@@ -1,6 +1,61 @@
-# url-syntax-highlitghting
-Github has syntax highlighting for 581 languages so I wanted to see which ones is best for displaying the different parts of a URL
+# URL Syntax Highlitghting
+Github has syntax highlighting for 581 languages this list let's you see see which ones arer best for displaying the different parts of a URL in code examples. 
 
+
+### Background
+I've been looking for a good way have easier to read URL Syntax Highlighting for my project documentation and code examples so I created this list to compare all 581 different Github Highlighters and which ones work best for different contexts. 
+
+
+### Quick Links
+
+Highlighting Seperators (//, /, .)
+* [ABNF](#ABNF)
+* [APL](#APL)
+
+
+Highlighting Protocol
+* [ANTLR](#ANTLR)
+* [Bluespec](#Bluespec)
+* [Gleam](#Gleam)
+
+
+Highlighting TLD
+* [BASIC](#BASIC)
+
+Highlighting Port
+* [Ada](#Ada)
+* [AMPL](#AMPL)
+* [BASIC](#BASIC)
+* [C2hs Haskell](#C2hs-Haskell)
+
+
+Highlighting First Part of Path
+* [Awk](#Awk)
+* [Cairo](#Cairo)
+* [Easybuild](#Easybuild)
+* [Nim](#Nim)
+
+
+Highlighting Last Part of Path
+* [PureScript](#PureScript)
+* [Python console](Python-console)
+
+
+
+
+Highlighting Full Path
+* [C2hs Haskell](#C2hs-Haskell)
+
+
+Highlighting Query String
+* [AppleScript](#AppleScript)
+* [jq](#jq)
+
+
+
+Highlighting All Parts
+* [Elixir[](#Elixir)
+* [jq](#jq)
 
 
 
