@@ -8,18 +8,18 @@ I've been looking for a good way to have easier to read URL Syntax Highlighting 
 
 ### Quick Links
 
-Highlighting Seperators (//, /, .)
+Highlighting Seperators - `//` `/` `.`
 * [ABNF](#ABNF)
 * [APL](#APL)
 
 
-Highlighting Protocol
+Highlighting Protocol - `https:`
 * [ANTLR](#ANTLR)
 * [Bluespec](#Bluespec)
 * [Gleam](#Gleam)
 
 
-Highlighting TLD
+Highlighting TLD - `.com` `.net` `.org`
 * [BASIC](#BASIC)
 
 Highlighting Port
@@ -29,25 +29,25 @@ Highlighting Port
 * [C2hs Haskell](#C2hs-Haskell)
 
 
-Highlighting First Part of Path
+Highlighting First Part of Path - `... .com/first-part/...`
 * [Awk](#Awk)
 * [Cairo](#Cairo)
 * [Easybuild](#Easybuild)
 * [Nim](#Nim)
 
 
-Highlighting Last Part of Path
+Highlighting Last Part of Path - `... .com/first-part/last-part.jpg`
 * [PureScript](#PureScript)
 * [Python console](Python-console)
 
 
 
 
-Highlighting Full Path
+Highlighting Full Path - `... .com/the/whole/path.jpg`
 * [C2hs Haskell](#C2hs-Haskell)
 
 
-Highlighting Query String
+Highlighting Query String - `.../path.jpg?query=string&key=value`
 * [AppleScript](#AppleScript)
 * [jq](#jq)
 
