@@ -1,5 +1,5 @@
 # URL Syntax Highlighting
-Github has syntax highlighting for 581 languages this list let's you see see which ones arer best for displaying the different parts of a URL in code examples. 
+Github has syntax highlighting for 581 languages but not URLs, so this list let's you see see which ones are best for displaying the different parts of a URL in code examples. 
 
 
 ### Background
