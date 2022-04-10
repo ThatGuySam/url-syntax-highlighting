@@ -38,7 +38,7 @@ Highlighting First Part of Path - `... .com/first-part/...`
 
 Highlighting Last Part of Path - `... .com/first-part/last-part.jpg`
 * [PureScript](#PureScript)
-* [Python console](Python-console)
+* [Python console](#Python-console)
 
 
 
